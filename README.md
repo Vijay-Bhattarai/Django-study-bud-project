@@ -21,21 +21,6 @@ CSS: CSS (Cascading Style Sheets) is a stylesheet language used for describing t
 
 VS Code: Visual Studio Code is a source code editor that is widely used for web development. It provides features like syntax highlighting, debugging support, and version control.
 
-
-Setup Instructions
-Clone the Repository:
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
-
-
-
-Install Dependencies:
-pip install -r requirements.txt 
-
-Run the Development Server:
-pythopython manage.py runserver
-
-
 #This project is still under development .....
 
 
