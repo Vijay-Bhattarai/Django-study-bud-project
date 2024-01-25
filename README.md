@@ -11,3 +11,33 @@ Welcome to the Student Chat and Programming Language Info Project! This project 
 - **Programming Language Information:** Explore detailed information about different programming languages. Learn about their syntax, use cases, and key features.
 
 - **Comments:** Leave comments on programming language pages to share insights, ask questions, or provide additional information.
+
+Stack Used
+Django: Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.
+
+HTML: HTML (Hypertext Markup Language) is the standard markup language for creating web pages.
+
+CSS: CSS (Cascading Style Sheets) is a stylesheet language used for describing the presentation of a document written in HTML.
+
+VS Code: Visual Studio Code is a source code editor that is widely used for web development. It provides features like syntax highlighting, debugging support, and version control.
+
+
+Setup Instructions
+Clone the Repository:
+git clone https://github.com/your-username/your-repository.git
+cd your-repository
+
+
+
+Install Dependencies:
+pip install -r requirements.txt 
+
+Run the Development Server:
+pythopython manage.py runserver
+
+
+#This project is still under development .....
+
+
+
+
